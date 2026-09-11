@@ -17,6 +17,7 @@ Smart questions in software engineering seem to be important to better filter ou
 This user starts by explaining what they are trying to do and what they have already tried, and then says what. Then it shows the methods they tried to use to get what they wanted. The user then gets multiple responses of very detailed solutions and explanations. 
 
 Here is a link: [Stack Overflow] (https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call).
+<a href="[https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call]">Stack Overflow</a>
 
 They ask a smart question and get rewarded with many extremely long explanations. Compare this to a 
 <h4>Not Smart Question</h4>
