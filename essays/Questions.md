@@ -24,4 +24,4 @@ This user is asking a question about where an option is in Android Studio's app 
 
 Here is a link: [Stack Overflow](https://stackoverflow.com/questions/80002282/can-anyone-tell-me-where-the-device-selection-option-is-in-android-studios-app)
 
-I know nothing about Android Studio's app inspector, but this seems like a question that could easily be googled. 
+There is no mentioning of any attempt to search for an answer in this question. I know nothing about Android Studio's app inspector, but this seems like a question that could easily be googled as well. They also only have one answer so far that has a comment under it saying that the answer is currently unclear with how it's written.
