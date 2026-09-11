@@ -16,13 +16,12 @@ Smart questions in software engineering seem to be important to better filter ou
 <h4>Smart Question</h4>
 This user starts by explaining what they are trying to do and what they have already tried, and then says what. Then it shows the methods they tried to use to get what they wanted. The user then gets multiple responses of very detailed solutions and explanations. 
 
-Here is a link: [Stack Overflow] (https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call).
-<a href="[https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call]">Stack Overflow</a>
+Here is a link: [Stack Overflow](https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call)
 
 They ask a smart question and get rewarded with many extremely long explanations. Compare this to a 
 <h4>Not Smart Question</h4>
 This user is asking a question about where an option is in Android Studio's app inspector as they say it is not where it used to be. They then show images of old and new versions and have tried restarting and using Repair IDE. 
 
-Here is a link: [Stack Overflow] (https://stackoverflow.com/questions/80002282/can-anyone-tell-me-where-the-device-selection-option-is-in-android-studios-app).
+Here is a link: [Stack Overflow](https://stackoverflow.com/questions/80002282/can-anyone-tell-me-where-the-device-selection-option-is-in-android-studios-app)
 
 I know nothing about Android Studio's app inspector, but this seems like a question that could easily be googled. 
