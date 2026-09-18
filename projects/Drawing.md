@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: projects/dizzy.png
 title: "I Draw"
 date: 2026
 published: true
@@ -10,6 +10,6 @@ labels:
 summary: "I can draw."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../projects/dizzy.png">
 
 I draw sometimes. That's it.
