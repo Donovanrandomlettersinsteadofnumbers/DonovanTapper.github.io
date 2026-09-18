@@ -10,7 +10,7 @@ labels:
 summary: "I am pretty good at competitive fighting games."
 ---
 
-<img class="img-fluid" src="../projects/sbol.jpeg">
+<img class="img-fluid" src="../projects/sbol.jpg">
 
 I like to play a lot of fighting games. Games like Street Fighter, Guilty Gear, 2XKO, and Blazblue.
 While I haven't won any tournaments yet, I have gotten close a couple times and went up against well known good players. 
