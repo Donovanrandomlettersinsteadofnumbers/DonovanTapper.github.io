@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: "Square Game"
-date: 2014
+date: 2026
 published: true
 labels:
   - Video Game
