@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: projects/solb.png
+image: img/solb.png
 title: "Fighting Gmaes"
 date: 2026
 published: true
