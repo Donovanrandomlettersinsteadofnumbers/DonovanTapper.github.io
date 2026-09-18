@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "something"
 date: 2026
-published: true
+published: false
 labels:
   - TypeScript
   - cheese
