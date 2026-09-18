@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: projects/dizzy.png
+image: img/yzzid.png
 title: "I Draw"
 date: 2026
 published: true
