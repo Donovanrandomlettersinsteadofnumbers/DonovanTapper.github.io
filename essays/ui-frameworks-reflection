@@ -1,0 +1,20 @@
+---
+layout: essay
+type: essay
+title: "UI Frameworks and Design"
+# All dates must be YYYY-MM-DD format!
+date: 2026-10-08
+published: true
+labels:
+  - Software Engineering
+  - Learning
+---
+
+<img class="img-fluid" src="../img/eslint.png">
+
+<h3>Learning Bootstrap 5</h3>
+Using Bootstrap 5 feels kind of like learning a new programming language. It keeps the same basic idea of HTML but adds in a bunch of new terminology and ways to write the HTMl that makes it really weird to learn. One thing that I can say I like having Bootstrap 5 for over just HTML and CSS is how there are things already baked into the program which makes creating certain UI designs easier. For example, using navbar to create a navigation bar is made really easy thanks to Bootstrap 5. 
+
+Using Bootstrap 5 and HTML I have recreated the design of a few websites with some basic elements. 
+
+
