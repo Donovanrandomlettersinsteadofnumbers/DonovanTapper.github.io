@@ -13,8 +13,9 @@ labels:
 <img class="img-fluid" src="../img/eslint.png">
 
 <h3>Learning Bootstrap 5</h3>
-Using Bootstrap 5 feels kind of like learning a new programming language. It keeps the same basic idea of HTML but adds in a bunch of new terminology and ways to write the HTMl that makes it really weird to learn. One thing that I can say I like having Bootstrap 5 for over just HTML and CSS is how there are things already baked into the program which makes creating certain UI designs easier. For example, using navbar to create a navigation bar is made really easy thanks to Bootstrap 5. 
+As someone who likes art, learning HTML has been pretty fun along with seeing the end product. Now that I have learned some Bootstrap 5, I have been able to recreate some websites. Using Bootstrap 5 feels kind of like learning a new programming language. It keeps the same basic idea of HTML but adds in a bunch of new terminology and ways to write the HTMl that makes it really weird to learn. One thing that I can say I like having Bootstrap 5 for over just HTML and CSS is how there are things already baked into the program which makes creating certain UI designs easier. For example, using navbar to create a navigation bar is made really easy thanks to Bootstrap 5.
 
 Using Bootstrap 5 and HTML I have recreated the design of a few websites with some basic elements. 
+<img class="img-fluid" src="../img/deltacopy.png">
 
-
+It's kind of hard for me to really know how difficult it would be to make a website UI just using raw HTML and CSS because I have not done that. I would assume creating all the different parts of it would be more time consuming. However, I would also think that using a UI Framework, or at least one that makes UI elements easy to make, would limit the amount of things that you can do with a UI design. Like if someone were to have a unique idea for their UI, but that design could not be made using a framework like Bootstrap 5 or is made more difficult due to some limitation. 
