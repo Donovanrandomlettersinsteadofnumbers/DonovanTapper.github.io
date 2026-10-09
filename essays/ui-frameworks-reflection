@@ -10,8 +10,6 @@ labels:
   - Learning
 ---
 
-<img class="img-fluid" src="../img/eslint.png">
-
 <h3>Learning Bootstrap 5</h3>
 As someone who likes art, learning HTML has been pretty fun along with seeing the end product. Now that I have learned some Bootstrap 5, I have been able to recreate some websites. Using Bootstrap 5 feels kind of like learning a new programming language. It keeps the same basic idea of HTML but adds in a bunch of new terminology and ways to write the HTMl that makes it really weird to learn. One thing that I can say I like having Bootstrap 5 for over just HTML and CSS is how there are things already baked into the program which makes creating certain UI designs easier. For example, using navbar to create a navigation bar is made really easy thanks to Bootstrap 5.
 
