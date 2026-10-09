@@ -16,4 +16,5 @@ As someone who likes art, learning HTML has been pretty fun along with seeing th
 Using Bootstrap 5 and HTML I have recreated the design of a few websites with some basic elements. 
 <img class="img-fluid" src="../img/deltacopy.png">
 
+<h3>Problems?</h3>
 It's kind of hard for me to really know how difficult it would be to make a website UI just using raw HTML and CSS because I have not done that. I would assume creating all the different parts of it would be more time consuming. However, I would also think that using a UI Framework, or at least one that makes UI elements easy to make, would limit the amount of things that you can do with a UI design. Like if someone were to have a unique idea for their UI, but that design could not be made using a framework like Bootstrap 5 or is made more difficult due to some limitation. 
